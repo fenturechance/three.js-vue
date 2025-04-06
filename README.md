@@ -34,3 +34,6 @@ npm run build
 
 # 0405 screenshot
 ![picture 0](images/0405.png)  
+
+# 0406 screenshot
+![picture 0](images/0406.png)  
